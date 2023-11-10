@@ -1,3 +1,3 @@
 # aboutme
-some small talk
-sad learning:(
+- some small talk
+- suffering
