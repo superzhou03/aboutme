@@ -1,2 +1,4 @@
 # aboutme
-some small talk
+- some small talk
+- suffering
+- debugging or on my way debugging
